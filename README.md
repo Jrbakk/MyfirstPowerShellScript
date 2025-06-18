@@ -1,6 +1,9 @@
 # MyfirstPowerShellScript
 My first powershell Script
 
-> Dit is een blockquote
-1. first item
-2. seconde item
+## Function
+My script show u a management menu with some options you can choose of that gives you some information.
+
+### Author
+174839
+
